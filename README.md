@@ -5,8 +5,8 @@ About Me
 👯 I’m looking to collaborate on open-source web applications, especially those focused on user experience or performance.
 🤔 I’m looking for help with optimizing web application performance for large-scale deployments.
 💬 Ask me about frontend development (React, Vue), backend APIs (Node.js, Python), or cloud deployment strategies.
-📫 How to reach me: your.email@example.com or connect via my social links below.
-😄 Pronouns: He/Him (or your preferred pronouns)
+📫 How to reach me:jchoubey609@gmail.comor connect via my social links below.
+😄 Pronouns: she/her 
 ⚡ Fun fact: I once debugged a CSS issue that only appeared on every third Tuesday when the moon was full!
 Skills
 Category	Skills
