@@ -44,12 +44,3 @@ linkedin:https://www.linkedin.com/in/aditi-choubey-326533360
 🌱 I'm currently exploring...
 Currently diving deeper into WebAssembly for high-performance web applications and experimenting with Edge Computing for faster content delivery.
 
-Latest Blog Posts
-Optimizing React Performance: Tips and Tricks for Faster Apps - A guide to common performance pitfalls and how to avoid them in React.
-Building Secure RESTful APIs with Node.js and Express - Best practices for securing your backend APIs from common vulnerabilities.
-💖 Support My Work
-
-
-Contributions
-Proud to contribute to open source! You can see my contributions on various projects across GitHub, including bug fixes in popular web frameworks and feature enhancements in community tools. Feel free to explore my repositories or reach out if you have a project in mind.
-
